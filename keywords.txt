@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map MyTimer
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+MyTimer	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+start	KEYWORD2
+bussy	KEYWORD2
+reset	KEYWORD2
+is_finished	KEYWORD2
+get_elapsed_time	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+KEY_NONE	LITERAL1
