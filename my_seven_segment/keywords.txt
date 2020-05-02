@@ -1,0 +1,16 @@
+#######################################
+# Syntax Coloring Map my_seven_segment
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+my_seven_segment	KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+display	KEYWORD2
+clear	KEYWORD2
+begin	KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
+KEY_NONE	LITERAL1
