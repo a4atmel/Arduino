@@ -17,7 +17,7 @@ public:
 	uint32_t elapsed_time = 0;
 	uint32_t delay = 0;
 	MyTimer();
-	void start(int delay);
+	bool start(int delay);
 	void reset();
 	bool is_finished();
 	uint32_t get_elapsed_time();
